@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "emily.johnson@mail.com",
+      "username": "emilys",
+      "password": "emilyspass"
+    },
+    {
+      "id": 2,
+      "email": "michael.williams@mail.com",
+      "username": "michaelw",
+      "password": "michaelwpass"
+    },
+    {
+      "id": 3,
+      "email": "sophia.brown@mail.com",
+      "username": "sophiab",
+      "password": "sophiabpass"
+    }
+  ],
+  "total": 208,
+  "skip": 0,
+  "limit": 3
+}
