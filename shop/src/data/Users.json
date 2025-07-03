@@ -2,19 +2,19 @@
   "users": [
     {
       "id": 1,
-      "email": "emily.johnson@mail.com",
+      "email": "emily@mail.com",
       "username": "emilys",
       "password": "emilyspass"
     },
     {
       "id": 2,
-      "email": "michael.williams@mail.com",
+      "email": "michael@mail.com",
       "username": "michaelw",
       "password": "michaelwpass"
     },
     {
       "id": 3,
-      "email": "sophia.brown@mail.com",
+      "email": "sophia@mail.com",
       "username": "sophiab",
       "password": "sophiabpass"
     }
